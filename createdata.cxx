@@ -1,4 +1,4 @@
-//this file is written by professor Rob Gysel @ UC Davis
+//this file is written by professor Rob Gysel @ UC Davis.
 
 #include <cstdio>
 #include <iostream>
