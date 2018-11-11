@@ -1,3 +1,5 @@
+//this file is written by professor Rob Gysel @ UC Davis
+
 #include <cstdio>
 #include <iostream>
 #include <random>
